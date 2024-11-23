@@ -2,7 +2,7 @@
 ## Desarrollo de Software para Móviles DSM941 G01T
 Docente: Ing. Alexander Alberto Siguenza Campos
 
-Foro 2*
+Foro 2
 
 **Implementando un acceso a una aplicación móvil con Firebase**
 
